@@ -1,0 +1,134 @@
+[
+    {
+      "id": "dc-batman",
+      "superhero": "Batman",
+      "publisher": "DC Comics",
+      "alter_ego": "Bruce Wayne",
+      "first_appearance": "Detective Comics #27",
+      "characters": "Bruce Wayne",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/H9v5o8vP6RKkQtR77LIGrGDE.png",
+      "likes": 8,
+      "dislikes": 20
+    },
+    {
+      "id": "dc-superman",
+      "superhero": "Superman",
+      "publisher": "DC Comics",
+      "alter_ego": "Kal-El",
+      "first_appearance": "Action Comics #1",
+      "characters": "Kal-El",
+      "image": "https://as01.epimg.net/meristation/imagenes/2022/12/15/noticias/1671088841_481871_1671089071_noticia_normal.jpg",
+      "likes": 10,
+      "dislikes": 5
+    },
+    {
+      "id": "dc-flash",
+      "superhero": "Flash",
+      "publisher": "DC Comics",
+      "alter_ego": "Jay Garrick",
+      "first_appearance": "Flash Comics #1",
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen",
+      "image": "https://as01.epimg.net/meristation/imagenes/2022/12/07/noticias/1670409582_942581_1670409620_noticia_normal.jpg",
+      "likes": 10,
+      "dislikes": 7
+    },
+    {
+      "id": "dc-green",
+      "superhero": "Green Lantern",
+      "publisher": "DC Comics",
+      "alter_ego": "Alan Scott",
+      "first_appearance": "All-American Comics #16",
+      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz",
+      "image": "http://www.business2community.com/wp-content/uploads/2012/10/Green-Lantern-2011-413286.jpe",
+      "likes": 10,
+      "dislikes": 5
+    },
+    {
+      "id": "dc-arrow",
+      "superhero": "Green Arrow",
+      "publisher": "DC Comics",
+      "alter_ego": "Oliver Queen",
+      "first_appearance": "More Fun Comics #73",
+      "characters": "Oliver Queen",
+      "image": "https://www.gannett-cdn.com/authoring/2012/10/04/NOKL/ghnewsok-OK-3715766-36c1be6b.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp",
+      "likes": 10,
+      "dislikes": 2
+    },
+    {
+      "id": "dc-robin",
+      "superhero": "Robin/Nightwing",
+      "publisher": "DC Comics",
+      "alter_ego": "Dick Grayson",
+      "first_appearance": "Detective Comics #38",
+      "characters": "Dick Grayson",
+      "image": "https://www.dc.com/sites/default/files/Marquee_DSM_CH_098_558a03cfde9174.78898221.jpg",
+      "likes": 10,
+      "dislikes": 2
+    },
+    {
+      "id": "dc-blue",
+      "superhero": "Blue Beetle",
+      "publisher": "DC Comics",
+      "alter_ego": "Dan Garret",
+      "first_appearance": "Mystery Men Comics #1",
+      "characters": "Dan Garret, Ted Kord, Jaime Reyes",
+      "image": "https://www.enter.co/wp-content/uploads/2022/09/Blue-Beetle.webp",
+      "likes": 10,
+      "dislikes": 0
+    },
+    {
+      "id": "dc-black",
+      "superhero": "Black Canary",
+      "publisher": "DC Comics",
+      "alter_ego": "Dinah Drake",
+      "first_appearance": "Flash Comics #86",
+      "characters": "Dinah Drake, Dinah Lance",
+      "image": "https://dossierinteractivo.com/wp-content/uploads/2022/01/Black-Canary-portada-1024x719.jpeg",
+      "likes": 0,
+      "dislikes": 24
+    },
+    {
+      "id": "marvel-spider",
+      "superhero": "Spider Man",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Peter Parker",
+      "first_appearance": "Amazing Fantasy #15",
+      "characters": "Peter Parker",
+      "image": "https://img2.rtve.es/i/?w=1200&i=https://img2.rtve.es/imagenes/spiderman-uno-superheroes-mas-populares-todos-tiempos/1442912677842.jpg",
+      "likes": 10,
+      "dislikes": 2
+    },
+    {
+      "id": "marvel-captain",
+      "superhero": "Captain America",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Steve Rogers",
+      "first_appearance": "Captain America Comics #1",
+      "characters": "Steve Rogers",
+      "image": "https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg",
+      "likes": 18,
+      "dislikes": 6
+    },
+    {
+      "id": "marvel-iron",
+      "superhero": "Iron Man",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Tony Stark",
+      "first_appearance": "Tales of Suspense #39",
+      "characters": "Tony Stark",
+      "image": "https://i.blogs.es/0f256b/iron-man/450_1000.jpg",
+      "likes": 19,
+      "dislikes": 17
+    },
+    {
+      "id": "marvel-thor",
+      "superhero": "Thor",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Thor Odinson",
+      "first_appearance": "Journey into Myster #83",
+      "characters": "Thor Odinson",
+      "image": "https://depor.com/resizer/LZhj-hExcTZDhbUMzcSepsYT_Xg=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/6WZLUSHDIRC2XAHVYBWKKH3ODU.jpg",
+      "likes": 10,
+      "dislikes": 2
+    }
+  ]
